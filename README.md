@@ -37,5 +37,5 @@ This attendance application is fun, you can explore new techniques to avoid the 
 | Name | Roll Number |
 | --- | --- |
 | Yelisetty Karthikeya S M | 21CS30060 |
-| Thota Kesava Chandra | 21CS30053 |
-| Vonteri Varshith Reddy | 21CS30053 |
+| Thota Kesava Chandra | 21CS30056 |
+| Vonteri Varshith Reddy | 21CS10081 |
