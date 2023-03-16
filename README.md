@@ -1,5 +1,5 @@
 # Attendance Application (AA)
-    Team - Some Random Name
+    Team - Bit Rebels
 
 ## Problem Statement
 ---
