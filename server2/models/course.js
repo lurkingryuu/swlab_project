@@ -5,10 +5,10 @@ const Course = mongoose.model(
   new mongoose.Schema({
     courseid: String,
     coursename: String,
-    teacher: {
+    teachers: [{
       type: mongoose.Schema.Types.ObjectId,
       ref: "Teacher",
-    },
+    }],
     students: [
       {
         type: mongoose.Schema.Types.ObjectId,
