@@ -33,6 +33,9 @@ Android application requirements:
 
 This attendance application is fun, you can explore new techniques to avoid the proxies as much as possible !
 
+## Backend
+The Backend has been hosted at the link: [https://bit-rebels-api.onrender.com](https://bit-rebels-api.onrender.com)
+
 ## Authors
 | Name | Roll Number |
 | --- | --- |
