@@ -34,8 +34,8 @@ Android application requirements:
 This attendance application is fun, you can explore new techniques to avoid the proxies as much as possible !
 
 ## Backend
-The Repository for the Backend of this Project: [Backend](https://github.com/lurkingryuu/swlab_project_server)
-The Backend has been hosted at the link: [https://bit-rebels-api.onrender.com](https://bit-rebels-api.onrender.com)
+- The Repository for the Backend of this Project: [Backend](https://github.com/lurkingryuu/swlab_project_server)
+- The Backend has been hosted at the link: [https://bit-rebels-api.onrender.com](https://bit-rebels-api.onrender.com)
 
 ## Authors
 | Name | Roll Number |
